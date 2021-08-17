@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sudotman
-- 👀 I’m interested in Game Programming, Game Design and Dark Souls lore.
-- 🌱 I’m currently learning Game Development in Unity and Unreal. (AR/VR is my newest interest)
-- 💞️ I’m looking to collaborate on game development.
+- 👀 I’m interested in Cryptocurrencies, Game Programming, Game Design and Dark Souls lore.
+- 🌱 I’m currently learning DeFi, Ethereum, and Game Development in Unity and Unreal.
+- 💞️ I’m looking to collaborate on any of the aforementioned topics.
 - 📫 How to reach me: satyamsudo@gmail.com
 
 <!---
