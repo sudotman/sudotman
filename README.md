@@ -1,4 +1,4 @@
-- Hi, I’m Satyam!
+- Hi, I’m Satyam.
 - I’m interested in Game Programming, Game Design, AR/VR, Cryptocurrencies and Dark Souls lore.
 - I’m always happy to collaborate on anything interesting!
 - How to reach me: satyamsudo@gmail.com
