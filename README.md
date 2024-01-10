@@ -1,6 +1,12 @@
-- Hi, I’m Satyam.
-- I’m always happy to collaborate on anything interesting!
-- How to reach me: satyamsudo@gmail.com
+Hi, I’m Satyam.
+
+I’m always happy to collaborate on anything interesting!
+
+How to reach me: satyamsudo@gmail.com
+
+
+
+
 
 <!---
 sudotman/sudotman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
