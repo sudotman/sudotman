@@ -1,8 +1,8 @@
 hi, my name is satyam kashyap.
 
-i code, develop cool stuff and engage in art!
+i code, try to contribute to cool open source stuff and engage with art a lot!
 
 i am always open to collaboration.
 
-best,
-satyam
+hit me up at satyamsudo@gmail.com
+
