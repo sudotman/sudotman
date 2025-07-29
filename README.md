@@ -1,14 +1,8 @@
-Hi, I’m Satyam.
+hi, my name is satyam kashyap.
 
-I’m always happy to collaborate on anything interesting!
+i code, develop cool stuff and engage in art!
 
-How to reach me: satyamsudo@gmail.com
+i am always open to collaboration.
 
-
-
-
-
-<!---
-sudotman/sudotman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+best,
+satyam
